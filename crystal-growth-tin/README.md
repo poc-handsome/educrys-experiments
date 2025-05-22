@@ -9,7 +9,7 @@ A systematic lab manual is provided in [manual](/crystal-growth-tin/manual) (TOD
 - Adjust the camera position and focus
 - Start the GUI
 - Use GUI elements to check that all hardware components work:
-  - All 3x motors start working
+  - All 3x motors start moving
   - All sensors show realistic values. Touch the temperature sensors by hand and observe temperature increase. Push slightly on the weight cell.
   - Camera and infrared images are shown. Put your hand in the front of the infrared sensor and observe the image.
   - LED lights up  
@@ -25,15 +25,15 @@ A systematic lab manual is provided in [manual](/crystal-growth-tin/manual) (TOD
 
 - Set the cooling fan to 30%
 - Start a recipe with a temperature ramp to 220 °C in 30 min, followed by a ramp to 237 °C in 15 min. Such ramps reduce the overshooting of the temperature control. The temperature should become stable approx. after 1 h after heating start.
-- Remove the golden-color oxide from the surface with a stainless steel spoon once the tin melts. This needs to be repeated several times especially with fresh raw material. Oxidation increased rapidly with temperature, so overheating the tin above 250 °C should be avoided.
+- Remove the golden-color oxide from the surface with a stainless steel spoon once the tin melts. This needs to be repeated several times especially with fresh raw material. Oxidation increases rapidly with temperature, so overheating the tin above 250 °C should be avoided.
 
 ## Seed growth
 
 - Immerse the artificial copper seed for about 3 mm into the melt at the center. The gamepad is useful for controlling the seed motion.
-- Slightly touch the seed holder with the ruler, so that a good meniscus shape is formed at the seed
+- Slightly touch the seed holder with the metal ruler, so that a good meniscus shape is formed at the seed
 - Start pulling with about 5 mm/min. Increase the speed in steps by about 1.5x to 30...40 mm/min, until the crystal diameter reaches 1...1.5 mm.
 - The crystal may detach from the melt if the pull speed is increased too fast or if there was too much oxide on the surface
-- Stop the growth before the seed holder comes too close to the weight cell. **Pulling may not stop automatically if the Z coordinate is not set correctly".
+- Stop the growth before the seed holder comes too close to the weight cell. **Pulling may not stop automatically if the Z coordinate is not set correctly**.
 - Cut the grown crystal in peaces of about 20 mm length. Straighten out these pieces by rolling them between the metal ruler and a hard flat surface.
 
 ## Crystal growth
@@ -53,7 +53,7 @@ A systematic lab manual is provided in [manual](/crystal-growth-tin/manual) (TOD
 
 - Measure crystal diameter at several positions
 - Observe the growth ridges on the crystal surface, which indicate the crystalline structure. It is possible that a single crystal is obtained. 
-- Copy the experiment folder containing all image and log files 
+- Analye the data in the experiment folder containing all image and log files 
 - Create plots of process parameters such as melt temperature and pull speed over time
 
 
