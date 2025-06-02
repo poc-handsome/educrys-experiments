@@ -1,4 +1,5 @@
 # educrys-experiments
+[![DOI](https://zenodo.org/badge/987868495.svg)](https://doi.org/10.5281/zenodo.15575662)
 
 Description of various experiments using the EduCrys setup is provided in the subfolders.
 
